@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Suwen Song / Site Title"
+title                    : "Suwen Song /Personal Homepage"
 title_separator          : "-"
 name                     : &name "Suwen Song"
 description              : &description "personal description"
