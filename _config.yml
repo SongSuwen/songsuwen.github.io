@@ -23,12 +23,13 @@ author:
   # Biographic information
   avatar           : "songsuwen.png"
   name             : "Suwen Song"
+  email            : "songsw5@mail.sysu.edu.cn" 
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
   location         : "China Shenzhen"
   employer         : "Sun Yat-Sen University"
   uri              : # URL
-  email            : "songsw5@mail.sysu.edu.cn" 
+  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
